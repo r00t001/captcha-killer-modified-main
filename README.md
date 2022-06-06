@@ -47,7 +47,7 @@ https://mp.weixin.qq.com/s/_P6OlL1xQaYSY1bvZJL4Uw
    
    如ddddocr对特定类验证码的识别中字母`O`与数字`0`识别混淆，可以进行替换`text=ocr.classification(img_bytes).replace("0","O")`
    
-   【2022-06-01】二开作者并没有适配最新版版本的。最新版本对JDK有要求。
+ 【2022-06-01】二开作者并没有适配最新版版本的。最新版本对JDK有要求。
    
    1.在二开作者的基础上用高版本jdk重新编译了一次，，2022.3.9bp最新版可正常使用了。
    
