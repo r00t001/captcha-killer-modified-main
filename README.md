@@ -52,6 +52,8 @@ https://mp.weixin.qq.com/s/_P6OlL1xQaYSY1bvZJL4Uw
    1.在二开作者的基础上用高版本jdk重新编译了一次，，2022.3.9bp最新版可正常使用了。
    
    2.添加了ddddocr库的模板。不用每次都设置手动设置，选择通用模板即可。
+   ![图片](https://user-images.githubusercontent.com/106579740/175852733-20e2e8cb-e363-4bf7-9dec-66ef5290582c.png)
+
 
 > https://github.com/c0ny1/captcha-killer  [插件源项目]
 > 
